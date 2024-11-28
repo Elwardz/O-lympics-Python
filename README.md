@@ -1,4 +1,4 @@
-# # O-lympics: Code Complexity Game 🏅🐍
+# O-lympics: Code Complexity Game 🏅🐍
 ![DALL·E-2024-11-28-00 37](https://github.com/user-attachments/assets/5ad82b36-400a-4566-a003-6d08b613c8ee)
 
 
