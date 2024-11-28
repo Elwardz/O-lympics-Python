@@ -1,5 +1,6 @@
 # # O-lympics: Code Complexity Game 🏅🐍
-![Imagem do Projeto](https://github.com/user-attachments/assets/bb097bbb-73f0-4843-9b4b-f3163de8456a)
+![DALL·E-2024-11-28-00 37](https://github.com/user-attachments/assets/5ad82b36-400a-4566-a003-6d08b613c8ee)
+
 
 **O-lympics-Python** é um desenvolvido em Python, que reúne competições interativas, quizzes temáticos e um sistema de classificação para acompanhar o desempenho dos participantes. O objetivo é proporcionar uma experiência divertida e educativa com foco em desafios de lógica e programação.
 
